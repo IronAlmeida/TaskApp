@@ -12,7 +12,3 @@ Praticando sobre os conhecimentos vistos na trilha como:
 - Utilização de modulos nativos do Node (http, fileSystem(fs), crypto).
 - Entendo o funcionamento das streams (Readable, Writable e Transform).
 - Criação e persistência de banco de dados local.
-
-### Desafios:
-
-Nunca tinha utilizado o node.js de maneira pura sem nenhum framework, essa foi a maior dificuldade no inicio pois era tudo novo e mais complexo. Com o tempo puder entender melhor a lógica de cada funcionalidade e a coisas foram clareando na mente. Sem dúvidas esse desafio expandiu a minha mente sobre os conhecimentos que possuia tanto com o Node quanto com a linguagem JavaScript.
