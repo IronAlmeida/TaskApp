@@ -8,7 +8,7 @@ Desafio da RocketSeat para desenvolver uma aplicação de lista de tarefas sem u
 
 Praticando sobre os conhecimentos vistos na trilha como:
 
-- Fundamentos dos metódo HTTP (GET, POST, PUT, PATCH e DELETE).
+- Fundamentos dos metódos HTTP (GET, POST, PUT, PATCH e DELETE).
 - Utilização de modulos nativos do Node (http, fileSystem(fs), crypto).
 - Entendo o funcionamento das streams (Readable, Writable e Transform).
 - Criação de expressões regulares (Regex)
